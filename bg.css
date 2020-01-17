@@ -1,0 +1,39 @@
+p{
+	background-color:red;
+	color: yellow;
+}
+div{
+	background-image: url('../image/kanna.jpg');
+	height: 100px;
+	width: 400px;
+}
+.repeatx{
+	background-image: url('../image/o.png');
+	background-repeat: repeat-x;
+	height: 80px;
+	width: 100%;
+
+}
+.repeaty{
+	background-image: url('../image/o.png');
+	background-repeat: repeat-y;
+	height: 300px;
+	width: 110%;
+
+}
+.att{
+	background-image: url('../image/o.png');
+	background-attachment: fixed;
+	height: 400px;
+	width: 100%;
+
+}
+.bpos{
+	background-image: url('../image/pk.jpg');
+	background-attachment: fixed;
+	background-repeat: no-repeat;
+	background-position: 250px 25px;
+	height: 400px;
+	width: 100%;
+
+}
